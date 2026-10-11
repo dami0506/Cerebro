@@ -4,6 +4,17 @@ Registro de qué procesó el bibliotecario y cuándo.
 
 ---
 
+## 2026-10-11 — Material nuevo en RAW/prompts/
+
+- Cargados 5 archivos en `RAW/prompts/` (colección de prompts de marketing):
+  `_indice.md` (índice de la carpeta: lista 21 .docx + 2 .pdf, de los cuales llegaron 5),
+  `prompt-ads-storytelling-largos-publico-frio.md`, `prompt-angulos-manuales-launch-expert.md`,
+  `prompt-angulos.md`, `prompt-comentarios-positivos-ig.md`.
+- **Pendiente de procesar a WIKI.** Faltan ~18 prompts del índice (el usuario los irá enviando).
+- ⚠️ Nota: el `_indice.md` dice "prompts que **Santiago** usa" — confirmar si es error o es otra persona del equipo.
+
+---
+
 ## 2026-10-11 — WIKI construida desde RAW
 
 **Procesado:** `RAW/perfil-negocio.md` → 12 temas en `WIKI/`.

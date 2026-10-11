@@ -32,6 +32,18 @@ El usuario empezó a pasar documentos **ya procesados en formato WIKI** (frontma
 **`index.md` NO reconstruido todavía:** espero a tener toda la tanda para rearmarlo de una, y
 evitar un índice lleno de enlaces rotos. Pendiente.
 
+## 2026-10-11 — Carga directa a WIKI (tanda 2: 5 docs)
+
+Cargados verbatim: `creacion-de-productos-digitales`, `diagnostico-de-checkout`,
+`disputas-y-reembolsos`, `email-y-automatizaciones`, `embudo-vsl-post-pago`.
+Total importado del cerebro previo: **10 docs**. Siguen los mismos flags de la tanda 1
+(dos wikis en paralelo, enlaces colgando a temas aún no cargados, rutas `fuentes:` externas,
+"Santiago" omnipresente). `index.md` sigue sin reconstruir hasta cerrar la carga.
+
+Nota: `disputas-y-reembolsos` menciona abrir "Claude Code desde la carpeta del segundo cerebro"
+y automatizar respuestas a disputas de Stripe/MercadoPago cada 12 h — es parte del método descrito,
+queda registrado.
+
 ---
 
 ## 2026-10-11 — Colección de prompts COMPLETA en RAW/prompts/ (24 archivos)

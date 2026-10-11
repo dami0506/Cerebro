@@ -105,6 +105,12 @@ Faltan ~6 temas del índice: `shopify-y-checkout`, `stack-de-herramientas`,
 `subir-ads-con-metodo-catalogo`, `testeo-de-creativos`, `tracking-y-atribucion`,
 `ugc-y-video-generativo`.
 
+## 2026-10-11 — Carga directa a WIKI (tanda 9: 5 docs)
+
+Cargados verbatim: `shopify-y-checkout`, `stack-de-herramientas`, `subir-ads-con-metodo-catalogo`,
+`testeo-de-creativos`, `tracking-y-atribucion`. Total del cerebro previo: **44 docs**.
+Falta **1 solo**: `ugc-y-video-generativo`.
+
 ---
 
 ## 2026-10-11 — Colección de prompts COMPLETA en RAW/prompts/ (24 archivos)

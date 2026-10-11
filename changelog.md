@@ -111,6 +111,41 @@ Cargados verbatim: `shopify-y-checkout`, `stack-de-herramientas`, `subir-ads-con
 `testeo-de-creativos`, `tracking-y-atribucion`. Total del cerebro previo: **44 docs**.
 Falta **1 solo**: `ugc-y-video-generativo`.
 
+## 2026-10-11 — Carga COMPLETA + verificación + reconciliación de huérfanos
+
+**Tanda 10 (últimos 2 docs):** `ugc-y-video-generativo`, `validacion-de-oferta`. Con esto el
+cerebro importado queda **completo: los 45 temas del índice maestro, todos con archivo.**
+
+**Verificación automática (script):**
+- Los 45 temas del índice maestro → **todos tienen archivo ✓**
+- Wikilinks rotos en toda la WIKI → **ninguno ✓**
+- Huérfanos → eran los 12 del `perfil-negocio.md`.
+
+**Reconciliación de huérfanos (no destructiva):** agregué al `index.md` una sección
+**"Perfil propio (Damián)"** que enlaza los 12 archivos y marca los solapamientos con el
+método importado. Nada borrado, nada pisado. Re-verificado: **0 huérfanos, 0 links rotos.**
+
+**WIKI total: 58 temas** (45 del método + 12 del perfil + index) + OUTPUTS vacío.
+
+### DECISIÓN PENDIENTE para el usuario — fusiones de los solapamientos
+El "Perfil propio" y el método tienen pares que convendría fusionar o decidir cuál manda:
+- `copy-y-guiones` (perfil) ↔ `angulos-publicitarios` + `guiones-de-video-ads` (método)
+- `mockups-logos-banners` (perfil) ↔ `imagenes-y-mockups` (método)
+- `landing-ingles` + `landing-latam` (perfil, estructuras propias) ↔ `pagina-de-ventas` (método)
+- `prompts-veo3` (perfil) ↔ `ugc-y-video-generativo` (método)
+- `pricing-y-ofertas` (perfil) ↔ `aumento-de-aov` (método)
+Propuesta del bibliotecario: mantener los del perfil como "cómo lo hace Damián en concreto" y
+los del método como la teoría general, enlazados entre sí (ya lo están). Fusionar solo si el
+usuario lo pide.
+
+### Pendientes de siempre (sin resolver)
+- Confirmar quién es **"Santiago"** (mentor/autor del método, todo el cerebro importado habla de él).
+- Las `fuentes:` de los docs importados apuntan a rutas que **no existen en este repo**
+  (`RAW/formacion/...`, `RAW/youtube/...`, `RAW/contexto-chatgpt.md`): si querés trazabilidad real,
+  habría que cargar ese RAW de origen o aceptar que las fuentes son referencias externas.
+- Flags de compliance ya anotados: `contingencia-de-cuentas` (comprar perfiles/BMs, Multilogin),
+  `funnel-hacking` (cloaking "Ghost Ads"). Los docs ya traen nota del bibliotecario.
+
 ---
 
 ## 2026-10-11 — Colección de prompts COMPLETA en RAW/prompts/ (24 archivos)

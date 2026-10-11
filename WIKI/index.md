@@ -79,6 +79,25 @@ El dominio es coherente y se puede resumir en una frase: **vender productos digi
 
 ---
 
+## Perfil propio (Damián)
+
+> Tu operación concreta, destilada de `RAW/perfil-negocio.md`. Complementa el método genérico de arriba con lo tuyo: voseo, estructuras de landing propias, stack Lovable/Shopify, ofertas reales y precios. **Hay solapamiento con los temas del método** (ver notas al pie) — pendiente decidir fusiones.
+
+- [[identidad]] — quién sos, modelo de negocio, mercados y stack
+- [[estilo-comunicacion]] — cómo querés que te hablen (voseo, directo, modo experto)
+- [[flujo-de-trabajo]] — cómo se trabaja cada pedido y orden de entrega
+- [[copy-y-guiones]] — tus reglas de hooks, prohibiciones y formatos *(se solapa con [[angulos-publicitarios]] y [[guiones-de-video-ads]])*
+- [[landing-ingles]] — tu estructura "piedras" (15 secciones) *(complementa [[pagina-de-ventas]])*
+- [[landing-latam]] — tu estructura LATAM/Argentina (21 secciones) *(complementa [[pagina-de-ventas]])*
+- [[prompts-lovable]] — cómo armás los prompts para Lovable + manejo de media
+- [[prompts-veo3]] — specs de tus videos 9:16 de 8s *(complementa [[ugc-y-video-generativo]])*
+- [[mockups-logos-banners]] — mockups, logo y banner *(se solapa con [[imagenes-y-mockups]])*
+- [[pricing-y-ofertas]] — tus precios por mercado y mecánicas *(complementa [[aumento-de-aov]])*
+- [[historial-ofertas]] — catálogo de tus ofertas trabajadas
+- [[glosario]] — términos propios (piedras, native, BCL/VSL, low-ticket)
+
+---
+
 ## Outputs
 
 *(vacío: acá se enlazan tus entregables de `OUTPUTS/`)*

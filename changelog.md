@@ -97,6 +97,14 @@ Cargados verbatim: `organizacion-y-registro`, `pagina-de-ventas`, `problemas-de-
 `procesadores-de-pago`, `psicologia-del-comprador`. Total del cerebro previo: **34 docs**.
 Faltan ~11 temas del índice.
 
+## 2026-10-11 — Carga directa a WIKI (tanda 8: 5 docs)
+
+Cargados verbatim: `quiz-funnel`, `renovacion-de-creativos`, `segmentos-de-mercado`,
+`seleccion-y-modelado-de-oferta`, `setup-de-campanas`. Total del cerebro previo: **39 docs**.
+Faltan ~6 temas del índice: `shopify-y-checkout`, `stack-de-herramientas`,
+`subir-ads-con-metodo-catalogo`, `testeo-de-creativos`, `tracking-y-atribucion`,
+`ugc-y-video-generativo`.
+
 ---
 
 ## 2026-10-11 — Colección de prompts COMPLETA en RAW/prompts/ (24 archivos)

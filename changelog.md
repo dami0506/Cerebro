@@ -4,16 +4,16 @@ Registro de qué procesó el bibliotecario y cuándo.
 
 ---
 
-## 2026-10-11 — Material nuevo en RAW/prompts/ (10 archivos)
+## 2026-10-11 — Material nuevo en RAW/prompts/ (15 archivos)
 
 - Cargados en `RAW/prompts/` (colección de prompts de marketing): `_indice.md` +
-  **9 prompts**: ads-storytelling-largos-publico-frio, angulos, angulos-manuales-launch-expert,
+  **14 prompts**: ads-storytelling-largos-publico-frio, angulos, angulos-manuales-launch-expert,
   comentarios-positivos-ig, crear-mockups, crear-upsells, ebook-con-claude, educar-chatgpt,
-  escribir-sales-page.
-- **Pendiente de procesar a WIKI.** Faltan **14 prompts** del índice (23 en total): guiones por
-  nivel de conciencia / 7 pasos / 30s, variación winners, VSL OTO, testimonios Sora 2,
-  meta-ads-primary-text, modelar-ofertas, imagenes-ads, one-shot-mockups, html-google-ai-studio,
-  magic-patterns, optimizar-carga-web, generador-de-prompts-maestros.
+  escribir-sales-page, generador-de-prompts-maestros, guiones-7-pasos, guiones-30-segundos,
+  guiones-por-nivel-de-conciencia (5 prompts: Schwartz), html-google-ai-studio.
+- **Pendiente de procesar a WIKI.** Faltan **9 prompts** del índice (23 en total): variación
+  winners, VSL OTO, testimonios Sora 2, meta-ads-primary-text, modelar-ofertas, imagenes-ads,
+  one-shot-mockups, magic-patterns, optimizar-carga-web.
 - ⚠️ Nota: el `_indice.md` dice "prompts que **Santiago** usa" — confirmar si es error o es otra persona del equipo.
 
 ---

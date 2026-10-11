@@ -44,6 +44,17 @@ Nota: `disputas-y-reembolsos` menciona abrir "Claude Code desde la carpeta del s
 y automatizar respuestas a disputas de Stripe/MercadoPago cada 12 h — es parte del método descrito,
 queda registrado.
 
+## 2026-10-11 — Carga directa a WIKI (tanda 3: 5 docs)
+
+Cargados verbatim: `escalado-en-meta-ads`, `estructuras-cbo`, `filosofia-de-marketing`,
+`funnel-de-whatsapp`, `funnel-hacking`. Total importado del cerebro previo: **15 docs**.
+Mismos flags. `index.md` sigue pendiente hasta cerrar la carga.
+
+Nota: `funnel-hacking` describe cloaking con "Ghost Ads" (mostrar página señuelo a los
+revisores de Meta / scrapers) y `estructuras-cbo`/`escalado` describen tácticas operativas de
+Meta; el propio doc ya trae "nota del bibliotecario" avisando que el cloaking viola políticas de
+Meta. Queda registrado tal cual vino.
+
 ---
 
 ## 2026-10-11 — Colección de prompts COMPLETA en RAW/prompts/ (24 archivos)

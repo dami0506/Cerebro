@@ -86,6 +86,11 @@ Cargados verbatim: `internacionalizacion`, `investigacion-de-mercado`, `lectura-
 `llc-banca-y-fiscal`, `mentalidad-y-habitos`. Total del cerebro previo: **24 docs**.
 Siguen faltando ~21 temas del índice maestro.
 
+## 2026-10-11 — Carga directa a WIKI (tanda 6: 5 docs)
+
+Cargados verbatim: `metodo-v3`, `metricas-y-kpis`, `modelo-low-ticket`, `nomenclatura-del-metodo`,
+`optimizacion-de-roas`. Total del cerebro previo: **29 docs**. Faltan ~16 temas del índice.
+
 ---
 
 ## 2026-10-11 — Colección de prompts COMPLETA en RAW/prompts/ (24 archivos)

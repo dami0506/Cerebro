@@ -4,13 +4,16 @@ Registro de qué procesó el bibliotecario y cuándo.
 
 ---
 
-## 2026-10-11 — Material nuevo en RAW/prompts/
+## 2026-10-11 — Material nuevo en RAW/prompts/ (10 archivos)
 
-- Cargados 5 archivos en `RAW/prompts/` (colección de prompts de marketing):
-  `_indice.md` (índice de la carpeta: lista 21 .docx + 2 .pdf, de los cuales llegaron 5),
-  `prompt-ads-storytelling-largos-publico-frio.md`, `prompt-angulos-manuales-launch-expert.md`,
-  `prompt-angulos.md`, `prompt-comentarios-positivos-ig.md`.
-- **Pendiente de procesar a WIKI.** Faltan ~18 prompts del índice (el usuario los irá enviando).
+- Cargados en `RAW/prompts/` (colección de prompts de marketing): `_indice.md` +
+  **9 prompts**: ads-storytelling-largos-publico-frio, angulos, angulos-manuales-launch-expert,
+  comentarios-positivos-ig, crear-mockups, crear-upsells, ebook-con-claude, educar-chatgpt,
+  escribir-sales-page.
+- **Pendiente de procesar a WIKI.** Faltan **14 prompts** del índice (23 en total): guiones por
+  nivel de conciencia / 7 pasos / 30s, variación winners, VSL OTO, testimonios Sora 2,
+  meta-ads-primary-text, modelar-ofertas, imagenes-ads, one-shot-mockups, html-google-ai-studio,
+  magic-patterns, optimizar-carga-web, generador-de-prompts-maestros.
 - ⚠️ Nota: el `_indice.md` dice "prompts que **Santiago** usa" — confirmar si es error o es otra persona del equipo.
 
 ---

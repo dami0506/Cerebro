@@ -4,16 +4,24 @@ Registro de qué procesó el bibliotecario y cuándo.
 
 ---
 
-## 2026-10-11 — Material nuevo en RAW/prompts/ (20 archivos)
+## 2026-10-11 — Colección de prompts COMPLETA en RAW/prompts/ (24 archivos)
 
-- Cargados en `RAW/prompts/` (colección de prompts de marketing): `_indice.md` +
-  **19 prompts**: ads-storytelling-largos-publico-frio, angulos, angulos-manuales-launch-expert,
-  comentarios-positivos-ig, crear-mockups, crear-upsells, ebook-con-claude, educar-chatgpt,
-  escribir-sales-page, generador-de-prompts-maestros, guiones-7-pasos, guiones-30-segundos,
-  guiones-por-nivel-de-conciencia (5 prompts: Schwartz), html-google-ai-studio, imagenes-ads,
-  magic-patterns, meta-ads-primary-text, modelar-ofertas, one-shot-mockups.
-- **Pendiente de procesar a WIKI.** Faltan **4 prompts** del índice (23 en total): variación
-  winners, VSL OTO, testimonios Sora 2, optimizar-carga-web.
+- `RAW/prompts/` ya tiene el `_indice.md` + **los 23 prompts** que lista el índice. Colección completa.
+- Añadidos en esta tanda: optimizar-carga-web-html, testimonios-sora-2,
+  variacion-de-guiones-winners, vsl-oto-post-purchase.
+- Inventario por categoría (según `_indice.md`):
+  - **Guiones/video (7):** guiones-por-nivel-de-conciencia (5 de Schwartz), guiones-7-pasos,
+    guiones-30-segundos, ads-storytelling-largos-publico-frio, variacion-de-guiones-winners,
+    vsl-oto-post-purchase, testimonios-sora-2.
+  - **Copy/ángulos (5):** angulos, angulos-manuales-launch-expert, meta-ads-primary-text,
+    escribir-sales-page, comentarios-positivos-ig.
+  - **Oferta/monetización (2):** modelar-ofertas, crear-upsells.
+  - **Visual/producto (4):** imagenes-ads, crear-mockups, one-shot-mockups, ebook-con-claude.
+  - **Web/desarrollo (3):** html-google-ai-studio, magic-patterns, optimizar-carga-web-html.
+  - **Meta/uso del modelo (2):** generador-de-prompts-maestros, educar-chatgpt.
+- **Pendiente de procesar a WIKI** (esperando "procesá RAW"). Candidato: tema nuevo
+  `biblioteca-de-prompts` + ampliar copy-y-guiones, mockups-logos-banners, prompts-lovable,
+  pricing-y-ofertas, flujo-de-trabajo.
 - ⚠️ Nota: el `_indice.md` dice "prompts que **Santiago** usa" — confirmar si es error o es otra persona del equipo.
 
 ---

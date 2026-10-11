@@ -55,6 +55,31 @@ revisores de Meta / scrapers) y `estructuras-cbo`/`escalado` describen tácticas
 Meta; el propio doc ya trae "nota del bibliotecario" avisando que el cloaking viola políticas de
 Meta. Queda registrado tal cual vino.
 
+## 2026-10-11 — Carga directa a WIKI (tanda 4: 4 docs + índice maestro)
+
+Cargados verbatim: `guiones-de-video-ads`, `hooks`, `ia-en-el-flujo-de-trabajo`,
+`imagenes-y-mockups`. Total de docs del cerebro previo: **19**.
+
+**`index.md` REEMPLAZADO por el índice maestro** que mandó el usuario. Ese índice es ahora el
+canónico y mapea **45 temas** del método completo (venta directa de productos digitales
+low-ticket con Meta Ads). Resuelve la cuestión de "dos wikis": **gana el cerebro previo.**
+
+**⚠️ DECISIÓN PENDIENTE — mis 12 archivos del `perfil-negocio.md` quedaron huérfanos.**
+El índice maestro NO los lista: `identidad`, `estilo-comunicacion`, `copy-y-guiones`,
+`landing-ingles` (estructura "piedras"), `landing-latam`, `prompts-lovable`, `prompts-veo3`,
+`mockups-logos-banners`, `pricing-y-ofertas`, `flujo-de-trabajo`, `historial-ofertas`, `glosario`.
+**No los borro:** contienen info ESPECÍFICA de Damián que el cerebro importado (método genérico
+de "Santiago") NO cubre — voseo, estructura piedras, estructura LATAM, su stack Lovable/Shopify,
+sus ofertas reales, sus precios. Al cerrar la carga hay que decidir cómo integrarlos (propuesta:
+sección "Perfil propio" en el índice + fusionar lo que se solape). Por ahora quedan en `WIKI/`
+pero fuera del índice maestro.
+
+**Faltan por llegar ~26 temas** que el índice enlaza y aún no están cargados (modelo-low-ticket,
+metodo-v3, metricas-y-kpis, testeo-de-creativos, investigacion-de-mercado, seleccion-y-modelado,
+validacion-de-oferta, shopify-y-checkout, tracking-y-atribucion, pagina-de-ventas, quiz-funnel,
+ugc-y-video-generativo, renovacion-de-creativos, psicologia-del-comprador, stack-de-herramientas,
+internacionalizacion, llc-banca-y-fiscal, etc.).
+
 ---
 
 ## 2026-10-11 — Colección de prompts COMPLETA en RAW/prompts/ (24 archivos)

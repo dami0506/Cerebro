@@ -4,6 +4,36 @@ Registro de qué procesó el bibliotecario y cuándo.
 
 ---
 
+## 2026-10-11 — Carga directa de documentos a WIKI (tanda 1: 5 docs)
+
+El usuario empezó a pasar documentos **ya procesados en formato WIKI** (frontmatter
+`tema/actualizado/fuentes` + `[[enlaces]]`) para cargar directo en `WIKI/`. Cargados verbatim:
+`angulos-publicitarios`, `aumento-de-aov`, `biblioteca-de-prompts`, `claude-con-meta-ads`,
+`contingencia-de-cuentas`.
+
+**⚠️ Cosas que hay que resolver (no toqué nada, solo lo registro):**
+
+1. **Dos WIKIs en paralelo.** Esta tanda viene de un segundo cerebro previo mucho más completo
+   y con otra convención de nombres. Se pisa temáticamente con lo que yo había construido desde
+   `perfil-negocio.md`: `biblioteca-de-prompts` ↔ mi `prompts-lovable`; `angulos-publicitarios`
+   ↔ mi `copy-y-guiones`; `aumento-de-aov` ↔ mi `pricing-y-ofertas`. **Habrá que decidir si los
+   nuevos reemplazan/absorben a los míos o conviven.**
+2. **Enlaces colgando.** Los docs apuntan a ~30 temas aún no cargados (guiones-de-video-ads,
+   investigacion-de-mercado, metodo-v3, modelo-low-ticket, metricas-y-kpis, shopify-y-checkout,
+   hooks, escalado-en-meta-ads, etc.). Presumiblemente llegan en próximas tandas.
+3. **`fuentes:` apunta a rutas que no existen en este repo** (`RAW/formacion/lecciones/...`,
+   `RAW/contexto-chatgpt.md`). Son referencias del cerebro de origen.
+4. **"Santiago" es omnipresente** en estos docs ("Santiago presenta", "Santiago probó"). Pinta
+   a ser el mentor/autor del método, no vos. Sigue pendiente confirmarlo.
+5. **`contingencia-de-cuentas`** incluye prácticas (comprar perfiles/BMs, camuflar IP/fingerprint
+   con Multilogin) que **violan los TOS de Meta**. El propio doc ya trae una "nota del bibliotecario"
+   advirtiéndolo. Lo dejo como está porque es doc tuyo ya redactado, pero queda marcado.
+
+**`index.md` NO reconstruido todavía:** espero a tener toda la tanda para rearmarlo de una, y
+evitar un índice lleno de enlaces rotos. Pendiente.
+
+---
+
 ## 2026-10-11 — Colección de prompts COMPLETA en RAW/prompts/ (24 archivos)
 
 - `RAW/prompts/` ya tiene el `_indice.md` + **los 23 prompts** que lista el índice. Colección completa.

@@ -80,6 +80,12 @@ validacion-de-oferta, shopify-y-checkout, tracking-y-atribucion, pagina-de-venta
 ugc-y-video-generativo, renovacion-de-creativos, psicologia-del-comprador, stack-de-herramientas,
 internacionalizacion, llc-banca-y-fiscal, etc.).
 
+## 2026-10-11 — Carga directa a WIKI (tanda 5: 5 docs)
+
+Cargados verbatim: `internacionalizacion`, `investigacion-de-mercado`, `lectura-de-resultados`,
+`llc-banca-y-fiscal`, `mentalidad-y-habitos`. Total del cerebro previo: **24 docs**.
+Siguen faltando ~21 temas del índice maestro.
+
 ---
 
 ## 2026-10-11 — Colección de prompts COMPLETA en RAW/prompts/ (24 archivos)
